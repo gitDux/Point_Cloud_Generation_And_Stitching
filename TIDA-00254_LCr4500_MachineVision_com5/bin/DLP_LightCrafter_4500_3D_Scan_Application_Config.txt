@@ -1,0 +1,37 @@
+#Camera type
+# 0 - Uses OpenCV camera interface
+# 1 - Native camera interface - PointGrey 
+CAMERA_TYPE					= 0
+
+# Algorithm type
+# 0 - GrayCode
+# 1 - Hybrid Three Phase Shift
+ALGORITHM_TYPE					= 0
+
+CONNECT_ID_PROJECTOR 				= 0
+CONNECT_ID_CAMERA				= 1
+
+CONFIG_FILE_PROJECTOR				= config/config_projector.txt
+CONFIG_FILE_CAMERA				= config/config_camera.txt
+CONFIG_FILE_CALIBRATION_PROJECTOR		= config/calibration_projector.txt
+CONFIG_FILE_CALIBRATION_CAMERA			= config/calibration_camera.txt
+CONFIG_FILE_GEOMETRY				= config/geometry.txt
+CONFIG_FILE_STRUCTURED_LIGHT_1			= config/algorithm_vertical.txt
+CONFIG_FILE_STRUCTURED_LIGHT_2			= config/algorithm_horizontal.txt
+
+CONTINUOUS_SCANNING 				= 0
+
+CALIBRATION_DATA_FILE_PROJECTOR			= calibration/data/projector.xml
+CALIBRATION_DATA_FILE_CAMERA			= calibration/data/camera.xml
+
+DIRECTORY_CAMERA_CALIBRATION_IMAGE_OUTPUT	= calibration/camera_images/
+DIRECTORY_SYSTEM_CALIBRATION_IMAGE_OUTPUT	= calibration/system_images/
+DIRECTORY_CALIBRATION_DATA			= calibration/data/
+DIRECTORY_SCAN_DATA_OUTPUT			= output/scan_data/
+DIRECTORY_SCAN_IMAGES_OUTPUT			= output/scan_images/
+
+OUTPUT_NAME_IMAGE_CAMERA_CALIBRATION_BOARD	= camera_calibration_board
+OUTPUT_NAME_IMAGE_CAMERA_CALIBRATION		= camera_calibration_capture_
+OUTPUT_NAME_IMAGE_SYSTEM_CALIBRATION		= system_calibration_capture_
+OUTPUT_NAME_IMAGE_DEPTHMAP			= _depthmap
+OUTPUT_NAME_XYZ_POINTCLOUD			= _pointcloud

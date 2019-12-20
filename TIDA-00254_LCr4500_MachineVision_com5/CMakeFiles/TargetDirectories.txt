@@ -1,0 +1,3 @@
+C:/TexasInstruments-DLP/DLP-ALC-LIGHTCRAFTER-SDK-2.0/TIDA-00254_LCr4500_MachineVision_com/CMakeFiles/DLP_LightCrafter_4500_3D_Scan_Application.dir
+C:/TexasInstruments-DLP/DLP-ALC-LIGHTCRAFTER-SDK-2.0/TIDA-00254_LCr4500_MachineVision_com/CMakeFiles/edit_cache.dir
+C:/TexasInstruments-DLP/DLP-ALC-LIGHTCRAFTER-SDK-2.0/TIDA-00254_LCr4500_MachineVision_com/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+"STARTUP.obj",
+"Delay.obj",
+"PWM.obj",
+"Uart.obj",
+"main.obj" 
+TO "V2" 

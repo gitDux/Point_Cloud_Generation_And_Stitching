@@ -1,0 +1,28 @@
+CAMERA_PARAMETERS_FRAME_BUFFER_SIZE 		= 72
+
+####################
+##OpenCV Camera    #
+####################
+#OPENCV_CAM_PARAMETERS_EXPOSURE 		= 0
+
+
+####################
+##PointGrey Camera #
+####################
+PG_FLYCAP_PARAMETERS_GAIN_DB 			= 18
+# For below parameter set 
+# Rolling shutter color Camera - MONO8
+# Global shutter Monochrome camera - RAW8
+PG_FLYCAP_PARAMETERS_PIXEL_FORMAT		= RAW8
+PG_FLYCAP_PARAMETERS_SHUTTER_EXPOSURE_MS	= 33
+PG_FLYCAP_PARAMETERS_FRAME_RATE_HZ		= 30
+PG_FLYCAP_PARAMETERS_STROBE_SOURCE		= 2
+PG_FLYCAP_PARAMETERS_STROBE_ENABLE		= 1
+PG_FLYCAP_PARAMETERS_STROBE_POLARITY		= 1
+# For below parameter
+# Rolling shutter color camera - 5.0
+# Glocal shutter Monochrome camera - 0.0
+PG_FLYCAP_PARAMETERS_STROBE_DELAY		= 0.0
+PG_FLYCAP_PARAMETERS_STROBE_DURATION		= 1.0
+PG_FLYCAP_PARAMETERS_AUTOEXPOSURE		= 0
+PG_FLYCAP_PARAMETERS_EXPOSURE 			= 1.0

@@ -1,0 +1,2 @@
+Registration_flag 转台中心轴标定算法
+downsample_flag 算点云的时候是否下采样 下采样会很快就能算出来

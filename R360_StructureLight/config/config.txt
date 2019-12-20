@@ -1,0 +1,27 @@
+board_size_width:6
+board_size_height:9
+square_size_width:1.5
+square_size_height:1.5 
+Registration_flag:2
+Camera_ID:1
+KSearchnum:30
+MaxCorrespondenceDistance:0.1
+LeafSize:0.05
+TransformationEpsilon:0.000001
+downsample_flag:1
+Cali_Pic_Num: 10
+GetRough_T_flag: 0
+:0.866472
+:0.023348175
+:0.4970945
+:-24.5666
+:-0.0363351
+:0.9984515
+:0.01840285
+:-0.797377 
+:-0.4967305
+:-0.03478572
+:0.8661045 
+:7.401775 
+
+

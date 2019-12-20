@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<DLP_CALIBRATION_DATA>1</DLP_CALIBRATION_DATA>
+<calibration_complete>1</calibration_complete>
+<calibration_of_camera>1</calibration_of_camera>
+<image_columns>640</image_columns>
+<image_rows>480</image_rows>
+<model_columns>640</model_columns>
+<model_rows>480</model_rows>
+<reprojection_error>2.1874987323190345e-001</reprojection_error>
+<intrinsic type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    6.0079324797432548e+002 0. 3.1122372427876030e+002 0.
+    6.0065717252396860e+002 2.4978686136892134e+002 0. 0. 1.</data></intrinsic>
+<distortion type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -1.5117814426099120e-002 3.6930337147615927e-001
+    9.7544573191790605e-006 2.7130620919974886e-003
+    -1.6395653738842484e+000</data></distortion>
+<extrinsic type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    -1.0361141132448592e-001 -2.2896273792968280e-001
+    -2.2949270970989082e-002 -2.5363133939570841e+000
+    -3.3672314636056169e+000 3.4501908019178593e+001</data></extrinsic>
+</opencv_storage>
