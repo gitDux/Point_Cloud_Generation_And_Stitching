@@ -1,7 +1,7 @@
 # R360_StructureLight
 多点云文件拼接
-# environment
+# Environment
 	vs2013
-# rely on
+# Rely on
   opencv C++
   PCL
